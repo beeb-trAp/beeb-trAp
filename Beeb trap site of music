@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<body bgcolor="#c7c7c7"></body bgcolor="#c7c7c7">
+<html>
+    <head>
+        <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+        <title>Beeb trap site</title>
+    </head>
+    <body>
+      <textarea style="color:red" >что вы хотели найти?</textarea><button><img src="img/st.jpg" width="30" height="30"></button>
+      <p style="color:red">добро пожаловать на оффициальный сайт <mark style="color:red">beeb trap</mark>-a!</p>  
+      <h1>
+            Hello,Welcome to my offical web-site!
+        </h1>
+    </body>
+</html>
